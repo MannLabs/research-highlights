@@ -75,12 +75,31 @@
 </script><style>
 :root {
     --main-width: min(900px, 100vw - 2 * var(--gap, 24px));
+    --theme: rgb(255, 255, 255);
+    --code-bg: rgb(252, 252, 252);
+    --highlight: #323492;
 }
 
 @media (max-width: 768px) {
     :root {
         --main-width: calc(100vw - 2 * var(--gap, 24px));
     }
+}
+
+ 
+.post-content a,
+.post-meta .i18n_list li a,
+.toc a:hover {
+    color: var(--highlight);
+}
+
+.entry-header h2 {
+    color: var(--highlight);
+}
+
+.home-info .entry-content a,
+a:hover {
+    color: var(--highlight);
 }
 </style>
 
@@ -126,7 +145,7 @@
 <div class="post-content"><p>The MannLabs, led by Prof. Matthias Mann, consisting of the Department of Proteomics and Signal Transduction at the MPI in Munich and the Research group at the CPR in Copenhagen pioneers mass spectrometry-based proteomics with a focus on signal transduction, biomarker discovery, and metabolic diseases. Our research spans method development for mass spectrometry, clinical applications, and the development of computational tools, aiming to make proteomics accessible for predictive and preventive medicine.</p>
 <p>Here, we share ongoing research efforts, best practices, and insights into our research for the public and other researchers.</p>
 <h2 id="research-highlights-2025">Research highlights: 2025<a hidden class="anchor" aria-hidden="true" href="#research-highlights-2025">#</a></h2>
-<p>Check out <a href="/2025/">this page</a> for a full list of research highlights</p>
+<p>In 2025, our lab made contributions to the both the experimental + computational method development as well as the application of MS-based proteomics in disease research. Check out <a href="/2025/">the full list of research highlights 2025</a>.</p>
 <div class="card-grid card-grid-4">
     
 

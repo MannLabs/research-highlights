@@ -74,12 +74,31 @@
 </script><style>
 :root {
     --main-width: min(900px, 100vw - 2 * var(--gap, 24px));
+    --theme: rgb(255, 255, 255);
+    --code-bg: rgb(252, 252, 252);
+    --highlight: #323492;
 }
 
 @media (max-width: 768px) {
     :root {
         --main-width: calc(100vw - 2 * var(--gap, 24px));
     }
+}
+
+ 
+.post-content a,
+.post-meta .i18n_list li a,
+.toc a:hover {
+    color: var(--highlight);
+}
+
+.entry-header h2 {
+    color: var(--highlight);
+}
+
+.home-info .entry-content a,
+a:hover {
+    color: var(--highlight);
 }
 </style>
 
