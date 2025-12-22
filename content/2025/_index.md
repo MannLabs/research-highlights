@@ -145,5 +145,3 @@ a treatment that has already changed people\'s lives for the good.\"_
 | _Mol Syst Biol_ | 1 | AI laboratory agents |
 | _J Clin Invest_ | 1 | LRRK2 colitis (w/ Yue) |
 {{< /centered-table >}}
-
-For more information: [www.biochem.mpg.de/mann](https://www.biochem.mpg.de/mann)

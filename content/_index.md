@@ -9,7 +9,8 @@ description: "Summary of recent advances led by the MannLabs at the MPI for Bioc
 It has also been an exceptional year for the Mann Lab, with major publications in Nature, Nature Biotechnology, Nature Genetics, Nature Protocols, Nature Communications, Cancer Cell, Cell, Cell Systems, EMBO Molecular Medicine, and Molecular Cell among others. Our work continues to advance mass spectrometry-based proteomics technology while translating these capabilities into clinical and biological applications.
 
 
-Check out [the full list of research highlights 2025](2025/).
+Check out [the full list of research highlights 2025](2025/) and for more information have a look at our [homepage](https://www.biochem.mpg.de/mann)
+
 
 {{< card-grid columns="4">}}
 
@@ -57,4 +58,4 @@ textColor="#222222"
 
 
 
-<!-- {{< ecosystem-card >}} -->
+{{< ecosystem-card >}}
