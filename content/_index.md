@@ -9,12 +9,12 @@ Here, we share ongoing research efforts, best practices, and insights into our r
 
 ## Research highlights: 2025
 
-In 2025, our lab made contributions to the both the experimental + computational method development as well as the application of MS-based proteomics in disease research. Check out [the full list of research highlights 2025](/2025/). 
+In 2025, our lab made contributions to the both the experimental + computational method development as well as the application of MS-based proteomics in disease research. Check out [the full list of research highlights 2025](2025/).
 
 {{< card-grid columns="4">}}
 
-{{< feature-card 
-    title="Proteomics Methods" 
+{{< feature-card
+    title="Proteomics Methods"
     description="Methodological advances driven by the MannLabs"
     url="2025/#proteomics-methods"
     image="images/2025/synchro-pasef.png"
@@ -22,16 +22,14 @@ In 2025, our lab made contributions to the both the experimental + computational
     textColor="#222222"
 >}}
 
-
-{{< feature-card 
-    title="Bioinformatics" 
-    description="New computational methods developed by the MannLabs" 
+{{< feature-card
+    title="Bioinformatics"
+    description="New computational methods developed by the MannLabs"
     url="2025/#bioinformatics--software"
     image="images/2025/alphadia.png"
     alpha=0.6
     textColor="#222222"
 >}}
-
 
 {{< feature-card
     title="Disease biology"
@@ -40,20 +38,15 @@ In 2025, our lab made contributions to the both the experimental + computational
     image="images/2025/att-if.png"
     alpha=0.6
     textColor="#222222"
-
 >}}
 
-
-{{< feature-card 
-    title="Clinical translation" 
-    description="Clinical translation of findings" 
-    url="2025/#clinical-impact-highlight"
+{{< feature-card
+    title="Clinical translation"
+    description="Clinical translation of findings"
+    url="research-highlights/2025/#clinical-impact-highlight"
     image="images/2025/spatial-medicine.png"
     alpha=0.6
     textColor="#222222"
-
 >}}
-
-
 
 {{< /card-grid >}}
