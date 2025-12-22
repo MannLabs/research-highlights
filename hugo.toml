@@ -1,6 +1,6 @@
 baseURL = 'https://mannlabs.github.io/research-highlights/'
 languageCode = 'en-us'
-title = 'MannLabs'
+title = 'MannLabs Research Highlights 2025'
 theme = 'papermod'
 
 [params]
