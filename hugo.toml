@@ -3,8 +3,10 @@ title = 'MannLabs'
 theme = 'papermod'
 
 [params]
+    mainSections = ["posts"]
     description = "Research Highlights by the MannLabs in Munich and Copenhagen"
     author = "MannLabs"
+    disableThemeToggle = true
     ShowReadingTime = false
     ShowShareButtons = false
     ShowPostNavLinks = true
@@ -26,6 +28,10 @@ theme = 'papermod'
         Content = "The MannLabs, led by Prof. Matthias Mann, pioneers mass spectrometry-based proteomics with a focus on signal transduction, biomarker discovery, and metabolic diseases. Here, we share ongoing research efforts, best practices, and insights for the public and other researchers."
 
 
+    [params.label]
+        icon = "/images/icons/mann-labs-logo.png"
+        iconHeight = 35
+
     [params.assets]
         favicon = "/favicon.ico"
         favicon16x16 = "/favicon-16x16.png"
@@ -39,6 +45,9 @@ theme = 'papermod'
         weight = 0
 
 [markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
     [markup.highlight]
         style = "github"
         lineNos = true
