@@ -1,6 +1,7 @@
 ---
 title: MannLabs @2025
 description: The Year 2025 in Review
+toc: true
 ---
 
 ## Overview
@@ -13,11 +14,14 @@ work continues to advance mass spectrometry-based proteomics technology
 while translating these capabilities into clinical and biological
 applications.
 
-| Last/Senior Author Papers (Published) | 18+ |
+{{< centered-table >}}
+| Metric | Count |
 | ------------------------------------- | --- |
+| Last/Senior Author Papers (Published) | 18+ |
 | Preprints (bioRxiv/medRxiv)           | 9+  |
 | Nature family papers                  | 7   |
 | Major Collaborations                  | 6+  |
+{{< /centered-table >}}
 
 ## Technology Advances
 
@@ -236,46 +240,24 @@ a treatment that has already changed people\'s lives for the good.\"_
 
 ## Publication Summary by Journal
 
----
-
-**Journal** **Count** **Topics**
-
----
-
-_Nature_ 3 Liver disease (DVP), Review,
-NNMT/CAFs (w/ Lengyel)
-
-_Nature Biotechnology_ 1 AlphaDIA transfer learning
-
-_Nature Genetics_ 1 Pediatric plasma proteome
-
-_Nature Protocols_ 1 PASEF workflow
-
-_Nature 1 ADAPT-MS (in press)
-Communications_
-
-_Cancer Cell_ 1 Ovarian cancer progression (w/
-Lengyel)
-
-_Cell_ 1 GPX4 ferroptosis (w/ Conrad)
-
-_Cell Systems_ 1 Colon organoid DVP
-
-_EMBO Mol Med_ 2 Rare pediatric disorders,
-Pre-analytical bias
-
-_Molecular Cell_ 1 Tumor-immune crosstalk
-
-_Mol Cell Proteomics_ 2 PCA-N plasma, Stellar MS
-
-_Commun Biol_ 1 Pancreatic islet cells
-
-_NPJ Precision Oncol_ 1 Signet ring cell carcinoma
-
-_Mol Syst Biol_ 1 AI laboratory agents
-
-_J Clin Invest_ 1 LRRK2 colitis (w/ Yue)
-
----
+{{< centered-table >}}
+| Journal | Count | Topics |
+| --- | --- | --- |
+| _Nature_ | 3 | Liver disease (DVP), Review, NNMT/CAFs (w/ Lengyel) |
+| _Nature Biotechnology_ | 1 | AlphaDIA transfer learning |
+| _Nature Genetics_ | 1 | Pediatric plasma proteome |
+| _Nature Protocols_ | 1 | PASEF workflow |
+| _Nature Communications_ | 1 | ADAPT-MS (in press) |
+| _Cancer Cell_ | 1 | Ovarian cancer progression (w/ Lengyel) |
+| _Cell_ | 1 | GPX4 ferroptosis (w/ Conrad) |
+| _Cell Systems_ | 1 | Colon organoid DVP |
+| _EMBO Mol Med_ | 2 | Rare pediatric disorders, Pre-analytical bias |
+| _Molecular Cell_ | 1 | Tumor-immune crosstalk |
+| _Mol Cell Proteomics_ | 2 | PCA-N plasma, Stellar MS |
+| _Commun Biol_ | 1 | Pancreatic islet cells |
+| _NPJ Precision Oncol_ | 1 | Signet ring cell carcinoma |
+| _Mol Syst Biol_ | 1 | AI laboratory agents |
+| _J Clin Invest_ | 1 | LRRK2 colitis (w/ Yue) |
+{{< /centered-table >}}
 
 For more information: [www.biochem.mpg.de/mann](https://www.biochem.mpg.de/mann)
