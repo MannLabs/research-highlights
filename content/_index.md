@@ -27,7 +27,7 @@ textColor="#222222"
 {{< feature-card
 title="Bioinformatics"
 description="New computational methods developed by the MannLabs"
-url="2025/#bioinformatics--software"
+url="2025/#bioinformatics"
 image="images/2025/alphadia.png"
 alpha=0.6
 textColor="#222222"
