@@ -1,0 +1,72 @@
+{{- $title := .Get "title" -}}
+{{- $authors := .Get "authors" -}}
+{{- $journal := .Get "journal" -}}
+{{- $issue := .Get "issue" -}}
+{{- $url := .Get "url" -}}
+{{- $summary := .Get "summary" -}}
+{{- $background := .Get "background" | default "transparent" -}}
+{{- $size := .Get "size" | default "0.8em" -}}
+
+<div class="citation" style="background-color: {{ $background }}; font-size: {{ $size }};">
+  {{- if $url -}}
+  <a href="{{ $url }}" target="_blank" rel="noopener" class="citation-title">
+    {{ $title }}
+  </a>
+  {{- else -}}
+  <strong class="citation-title">{{ $title }}</strong>
+  {{- end }}
+  <span class="citation-authors">{{ $authors }}</span>
+  {{- if $url -}}
+  <a href="{{ $url }}" target="_blank" rel="noopener" class="citation-journal-link">
+    <em class="citation-journal">{{ $journal }}{{ with $issue }}. {{ . }}{{ end }}</em>
+  </a>
+  {{- else -}}
+  <em class="citation-journal">{{ $journal }}{{ with $issue }}. {{ . }}{{ end }}</em>
+  {{- end -}}
+  {{- with $summary -}}
+  <br>
+  <span class="citation-summary">{{ . }}</span>
+  {{- end }}
+</div>
+
+<style>
+  .citation {
+    width: 100%;
+    border-radius: 8px;
+    padding: 0.5em 0.75em;
+    margin-bottom: 0.25em;
+    text-align: justify;
+  }
+
+  .citation-title {
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a.citation-title:hover {
+    text-decoration: underline;
+  }
+
+  .citation-authors {
+    color: #555555;
+    margin-right: 0.3em;
+  }
+
+  .citation-journal {
+    color: #323492;
+  }
+
+  .citation-journal-link {
+    text-decoration: none;
+  }
+
+  .citation-journal-link:hover .citation-journal {
+    text-decoration: underline;
+  }
+
+  .citation-summary {
+    display: inline-block;
+    margin-top: 0.3em;
+  }
+</style>
