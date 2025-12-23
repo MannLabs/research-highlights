@@ -90,43 +90,26 @@ In particular, our long-standing [collaboration with Ernst Lengyel](#ovarian-can
 has made an immediate and tangible impact in the clinic, by identifying
 a treatment that has already changed people's lives for the good."_
 
---- Matthias Mann
+-- Matthias Mann
 
-## Preprints
-{{< citation-group heading="" columns="2">}}
 
-{{< citation title="SPEC workflow" authors="Heymann et al." journal="bioRxiv" issue="May 2025" summary="Solid-Phase Extraction Capture for ultrasensitive proteomics" >}}
+## Training and Recognition
+Our commitment to training the next generation of scientists was reflected in the **successful graduation of four PhD students** this year, each of whom made significant contributions to our research program and are now launching careers in academia and industry. 
 
-{{< citation title="nanoPhos" authors="Oliinyk et al." journal="bioRxiv" issue="May 2025" summary="Cell-type resolved spatial phosphoproteomics" >}}
+The laboratory's contributions to science were recognized with Mattias Mann's **election to the United States National Academy of Sciences**, one of the highest honors in scientific research.
 
-{{< citation title="Liver zonation" authors="Weiss et al." journal="bioRxiv" issue="Apr 2025" summary="Single cell spatial proteomics of hepatocyte zonation" >}}
-
-{{< citation title="Tree-based proteoform quantification" authors="Ammar et al." journal="bioRxiv" issue="Mar 2025" summary="Inferring proteoform regulation from bottom-up data" >}}
-
-{{< citation title="ADAPT-MS" authors="Müller-Reif et al." journal="medRxiv" issue="May 2025 (in press Nat Commun)" summary="Adaptive clinical diagnostics framework" >}}
-
-{{< citation title="scPortrait" authors="Mädler et al." journal="bioRxiv" issue="Sep 2025" summary="Single-cell image integration for multimodal modeling" >}}
-
-{{< citation title="Early ovarian cancer (HGSC)" authors="Metousis et al." journal="medRxiv" issue="Aug 2025" summary="Spatial proteomics/transcriptomics integration" >}}
-
-{{< citation title="3D fallopian tube mapping (STIC)" authors="Metousis et al." journal="bioRxiv" issue="Sep 2025" summary="Multi-omic mapping revealing ovarian cancer precursors" >}}
-
-{{< citation title="Pre-analytical bias" authors="Korff et al." journal="bioRxiv" issue="May 2025 (now published EMBO Mol Med)" summary="Bias in bead-enriched plasma proteomics" >}}
-
-{{< /citation-group >}}
 
 ## Publication Summary by Journal
 
 {{< centered-table >}}
 | Journal | Count | Topics |
 | --- | --- | --- |
-| _Nature_ | 3 | Liver disease (DVP), Review, NNMT/CAFs (w/ Lengyel) |
+| _Nature_ | 2 | Liver disease (DVP), Review |
 | _Nature Biotechnology_ | 1 | AlphaDIA transfer learning |
 | _Nature Genetics_ | 1 | Pediatric plasma proteome |
 | _Nature Protocols_ | 1 | PASEF workflow |
 | _Nature Communications_ | 1 | ADAPT-MS (in press) |
 | _Cancer Cell_ | 1 | Ovarian cancer progression (w/ Lengyel) |
-| _Cell_ | 1 | GPX4 ferroptosis (w/ Conrad) |
 | _Cell Systems_ | 1 | Colon organoid DVP |
 | _EMBO Mol Med_ | 2 | Rare pediatric disorders, Pre-analytical bias |
 | _Molecular Cell_ | 1 | Tumor-immune crosstalk |
@@ -134,5 +117,4 @@ a treatment that has already changed people's lives for the good."_
 | _Commun Biol_ | 1 | Pancreatic islet cells |
 | _NPJ Precision Oncol_ | 1 | Signet ring cell carcinoma |
 | _Mol Syst Biol_ | 1 | AI laboratory agents |
-| _J Clin Invest_ | 1 | LRRK2 colitis (w/ Yue) |
 {{< /centered-table >}}
