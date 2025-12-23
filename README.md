@@ -2,6 +2,9 @@
 
 This repository serves the website [mannlabs.github.io/research-highlights](https://mannlabs.github.io/research-highlights), a website that summarizes the main innovations of the MannLabs at the MPI Munich and the Centre for Protein Research Copenhagen. 
 
+<img width="928" height="338" alt="image" src="https://github.com/user-attachments/assets/1ef74c27-9c85-4545-85ca-09ebae116073" />
+
+
 ## Users
 
 Please visit [mannlabs.github.io/research-highlights](https://mannlabs.github.io/research-highlights)
