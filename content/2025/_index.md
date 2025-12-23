@@ -16,6 +16,7 @@ toc: true
 {{< /centered-table >}}
 
 ## Technology Advances
+On the technology front, we introduced several transformative [methods](#proteomics-methods). Our **SPEC (Solid-Phase Extraction Capture) workflow** enables proteomics sample preparation in nanoliter sample volumes resulting in unprecedented sensitivity. It enables the **nanoPhos** method which brings phosphoproteomics—traditionally requiring substantial material—to single-cell resolution in spatial contexts. **AlphaDIA**, published in Nature Biotechnology, pioneers end to end deep learning and applies transfer learning to adjust to new conditions and PTM types. In the [Rust rewrite](https://www.linkedin.com/posts/georg-wallmann-926433189_alphadia-20-is-out-today-we-are-activity-7391492479847583744-4veI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe7bvYBPclp6_FXHkb1VK3QDEMwV3MQg0Q) it has become blazingly fast. We also developed ADAPT-MS, an adaptive machine learning framework that enables clinical decision-making directly from discovery proteomics data without requiring fixed biomarker panels—a paradigm shift for clinical proteomics.
 
 ### Proteomics Methods
 
@@ -35,6 +36,9 @@ toc: true
 
 {{< citation title="AlphaDIA -- Transfer Learning for DIA" authors="Wallmann G, Skowronek P, Brennsteiner V, et al., Mann M" journal="Nat Biotechnol" issue="2025 Oct 21" summary="End-to-end transfer learning enabling feature-free proteomics with dramatically improved identification rates." >}}
 
+{{< citation title="ADAPT-MS Clinical Framework" authors="Müller-Reif JB, Albrecht V, et al., Wewer Albrechtsen NJ, Mann M" journal="In press at Nature Communications" summary="Adaptive diagnostic framework for clinical proteomics enabling personalized testing from plasma and CSF." >}}
+
+
 {{< citation title="scPortrait -- Single-Cell Image Integration" authors="Mädler SC, Schmacke NA, Palma A, et al., Theis FJ, Mann M" journal="bioRxiv" issue="2025.09.22.677590" summary="Software package for generation, storage and application of single-cell image datasets enabling multimodal analysis." >}}
 
 {{< citation title="Tree-based Proteoform Quantification" authors="Ammar C, Thielert M, Weiss CAM, et al., Mann M" journal="bioRxiv" issue="2025.03.06.641844" summary="Novel computational approach to infer proteoform regulation from bottom-up proteomics data." >}}
@@ -43,13 +47,11 @@ toc: true
 
 ## High-Throughput Applications
 
-### Clinical & Population Proteomics
+Our [**Deep Visual Proteomics (DVP) platform**](#disease-biology--spatial-proteomics) continued to yield biological insights with clinical relevance. In collaboration with clinical partners, we revealed why some patients with alpha-1 antitrypsin deficiency develop severe liver disease while others remain healthy. 
 
-{{< citation title="ADAPT-MS Clinical Framework" authors="Müller-Reif JB, Albrecht V, et al., Wewer Albrechtsen NJ, Mann M" journal="In press at Nature Communications" summary="Adaptive diagnostic framework for clinical proteomics enabling personalized testing from plasma and CSF." >}}
+Our long-standing [collaboration with Ernst Lengyel](#ovarian-cancer----ernst-lengyel-u-chicago) at the University of Chicago produced multiple high-impact papers on ovarian cancer, including the identification of NNMT as a therapeutic target in cancer-associated fibroblasts (Nature) and comprehensive spatial mapping of serous tubal intraepithelial carcinomas (STICs), revealing that ovarian cancer precursors are far more common than previously recognized.
+We also established a new framework for studying rare diseases. Our ontology-guided clustering approach, published in EMBO Molecular Medicine, enables meaningful proteomic analysis even when individual conditions affect only a handful of patients—opening the door to systematic study of the thousands of rare pediatric disorders that collectively affect millions of children worldwide.
 
-{{< citation title="Plasma Proteome in Children and Adolescents" authors="Niu L, Stinson SE, Holm LA, et al., Mann M" journal="Nat Genet" issue="2025 Feb 19" summary="Comprehensive proteomic profiling of 2,147 children revealing associations with age, sex, puberty, BMI, and genetics." >}}
-
-{{< citation title="Ontology-guided Clustering for Rare Pediatric Disorders" authors="Itang ECM, Albrecht V, et al., Mann M, Pangratz-Fuehrer S, Mueller-Reif JB" journal="EMBO Mol Med" issue="2025 Jul;17(7):1842-1867" summary="Framework integrating clinical ontologies with proteomics enables analysis of 394 rare pediatric conditions from 1,140 patients." >}}
 
 ### Disease Biology & Spatial Proteomics
 
@@ -64,6 +66,13 @@ toc: true
 {{< citation title="Signet Ring Cell Carcinoma" authors="Kabatnik S, Zheng X, et al., Mann M" journal="NPJ Precis Oncol" issue="2025 Feb 5;9(1):37" summary="DNA replication stress identified as a hallmark of signet ring cell carcinoma through DVP." >}}
 
 {{< citation title="Tumor-Immune Crosstalk" authors="Zheng X, Mund A, Mann M" journal="Mol Cell" issue="2025 Mar 6;85(5):1008-1023.e7" summary="Deciphering functional tumor-immune crosstalk through highly multiplexed imaging and deep visual proteomics." >}}
+
+
+### Clinical & Population Proteomics
+
+{{< citation title="Plasma Proteome in Children and Adolescents" authors="Niu L, Stinson SE, Holm LA, et al., Mann M" journal="Nat Genet" issue="2025 Feb 19" summary="Comprehensive proteomic profiling of 2,147 children revealing associations with age, sex, puberty, BMI, and genetics." >}}
+
+{{< citation title="Ontology-guided Clustering for Rare Pediatric Disorders" authors="Itang ECM, Albrecht V, et al., Mann M, Pangratz-Fuehrer S, Mueller-Reif JB" journal="EMBO Mol Med" issue="2025 Jul;17(7):1842-1867" summary="Framework integrating clinical ontologies with proteomics enables analysis of 394 rare pediatric conditions from 1,140 patients." >}}
 
 ## Major Collaborations
 
