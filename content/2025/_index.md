@@ -58,8 +58,10 @@ In particular, our long-standing [collaboration with Ernst Lengyel](#ovarian-can
 {{< citation title="Spatial proteo-transcriptomic profiling reveals the molecular landscape of borderline ovarian tumors and their invasive progression" authors="Schweizer L, Kenny HA, et al., Mann M, Lengyel E" journal="Cancer Cell" issue="2025 Jun 20"  url="https://doi.org/10.1016/j.ccell.2025.06.004" summary="Spatial proteo-transcriptomics reveals molecular landscape of borderline ovarian tumors. Identified 16 drug targets; combination therapy achieved significant tumor reduction." >}}
 {{< citation title="Integration of cell-type resolved spatial proteomics and transcriptomics reveals novel mechanisms in early ovarian cancer" authors="Metousis A, Kenny HA, Shimizu A, et al., Mann M, Lengyel E" journal="medRxiv" issue="2025.08.25.25333715" url="https://doi.org/10.1101/2025.08.25.25333715" summary="Integration of cell-type resolved spatial proteomics and transcriptomics reveals novel mechanisms including SUMOylation activation and ATR signaling." >}}
 {{< citation title="NNMT inhibition in cancer-associated fibroblasts restores antitumour immunity" authors="Heide J, Bilecz AJ, et al., Mann M, ..., Lengyel E" journal="Nature" issue="2025 Sep;645(8082):1051-1059" url="https://doi.org/10.1038/s41586-025-09303-5" summary="NNMT inhibitor reduces tumor burden by reprogramming cancer-associated fibroblasts and restoring immune checkpoint blockade efficacy." >}}
-{{< citation title="3D Multi-omic Mapping of Fallopian Tubes (STIC)" authors="Metousis A, et al., Mann M, Lengyel E" journal="bioRxiv" issue="2025.09.21.677628" summary="Spatially resolved multi-omics framework identifies 99 STICs and precursors in cancer-free organ donors, revealing high incidence of ovarian cancer precursors." >}}
+
 {{< /citation-group >}}
+
+
 
 {{< citation-group heading="E3 ligases – Brenda Schulman (MPI of Biochemistry)" >}}
 
@@ -118,3 +120,6 @@ The laboratory's contributions to science were recognized with Mattias Mann's **
 | _NPJ Precision Oncol_ | 1 | Signet ring cell carcinoma |
 | _Mol Syst Biol_ | 1 | AI laboratory agents |
 {{< /centered-table >}}
+
+
+> _Erratum (2026-01-01): In an earlier version of this page, we mistakenly included a [bioRxiv article](https://www.biorxiv.org/content/10.1101/2025.09.21.677628v1) that was not co-authored by our group. The article has been removed from the list, and we sincerly apologize for the error._
